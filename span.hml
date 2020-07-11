@@ -1,0 +1,11 @@
+<html>
+<body>
+<table border="1">
+<tr>
+<td height="300" width="400">1</td>
+td height="300" width="400">2</td>
+td height="300" width="400">3</td>
+<td collumn span="2"></td>
+</table>
+</body>
+</html>
